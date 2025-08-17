@@ -38,5 +38,50 @@
 - 데이터 수집 주기 및 서버 부하 관리
 - 사용자 개인정보 및 보안 고려
 
+## 프로젝트 파일 구조 (최신 권장)
+```
+lotto/
+├── docker-compose.yml           # 전체 서비스 컨테이너 관리
+├── requirements/                # 파이썬 패키지 분리 관리
+│   ├── base.txt                 # 공통 패키지 (예: requests, playwright)
+│   ├── airflow.txt              # apache-airflow, pendulum 등
+│   ├── backend.txt              # django, djangorestframework 등
+│   └── crawler.txt              # playwright, beautifulsoup4 등
+├── airflow/                     # Airflow 관련 코드 및 설정
+│   ├── dags/
+│   ├── logs/                    # 실행 로그 (Docker 볼륨 마운트용)
+│   └── plugins/                 # 커스텀 오퍼레이터
+├── backend/                     # Django 프로젝트
+│   ├── manage.py
+│   ├── lotto_backend/
+│   │   ├── settings.py
+│   │   ├── urls.py
+│   │   ├── wsgi.py
+│   └── apps/                    # 기능별 Django 앱
+│       ├── lotto/               # 로또/스피또 관련 기능
+│       └── accounts/            # 사용자 인증 등
+├── frontend/                    # React 프론트엔드
+│   ├── src/
+│   ├── public/
+│   └── package.json
+├── crawler/                     # Playwright 크롤러 코드
+│   └── crawl.py
+├── data/                        # 크롤링/분석 데이터 저장
+│   └── lotto_data.json
+├── tests/                       # 테스트 코드
+│   ├── test_crawler.py
+│   ├── test_backend.py
+│   └── test_frontend.js
+├── PRD.md                       # 프로젝트 요구사항 문서
+└── README.md                    # 프로젝트 설명
+```
+
+- requirements/ 디렉토리로 파이썬 패키지 충돌 방지 및 Docker 빌드 최적화
+- airflow/logs, airflow/plugins 디렉토리로 운영 및 확장성 강화
+- docker-compose.yml로 전체 서비스 컨테이너 일괄 관리
+- Django backend는 apps/로 기능별 분리하여 확장성 확보
+
+이 구조는 대규모 확장, 운영, 협업에 모두 적합합니다.
+
 ---
 문의: heesu@heesu-MacBookAir
