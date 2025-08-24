@@ -1,0 +1,362 @@
+[
+  {
+    "id": "speetto2000_0",
+    "title": "스피또 2000 62회",
+    "texts": [
+      {
+        "id": "speetto2000_0_1",
+        "rank": "1 등",
+        "rank_date": "2025-08-22",
+        "prize_money": 1000000000,
+        "remaining_count": 4
+      },
+      {
+        "id": "speetto2000_0_2",
+        "rank": "2 등",
+        "rank_date": "2025-08-22",
+        "prize_money": 100000000,
+        "remaining_count": 10
+      },
+      {
+        "id": "speetto2000_0_3",
+        "rank": "3 등",
+        "rank_date": "2025-08-22",
+        "prize_money": 10000,
+        "remaining_count": 99
+      }
+    ],
+    "crawl_date": "2025-08-24",
+    "date": "2025-08-22",
+    "rate": 74
+  },
+  {
+    "id": "speetto2000_1",
+    "title": "스피또 2000 61회",
+    "texts": [
+      {
+        "id": "speetto2000_1_1",
+        "rank": "1 등",
+        "rank_date": "2025-08-22",
+        "prize_money": 1000000000,
+        "remaining_count": 0
+      },
+      {
+        "id": "speetto2000_1_2",
+        "rank": "2 등",
+        "rank_date": "2025-08-22",
+        "prize_money": 100000000,
+        "remaining_count": 2
+      },
+      {
+        "id": "speetto2000_1_3",
+        "rank": "3 등",
+        "rank_date": "2025-08-22",
+        "prize_money": 10000,
+        "remaining_count": 7
+      }
+    ],
+    "crawl_date": "2025-08-24",
+    "date": "2025-08-22",
+    "rate": 100
+  },
+  {
+    "id": "speetto2000_2",
+    "title": "스피또 2000 60회",
+    "texts": [
+      {
+        "id": "speetto2000_2_1",
+        "rank": "1 등",
+        "rank_date": "2025-08-22",
+        "prize_money": 1000000000,
+        "remaining_count": 0
+      },
+      {
+        "id": "speetto2000_2_2",
+        "rank": "2 등",
+        "rank_date": "2025-08-22",
+        "prize_money": 100000000,
+        "remaining_count": 1
+      },
+      {
+        "id": "speetto2000_2_3",
+        "rank": "3 등",
+        "rank_date": "2025-08-22",
+        "prize_money": 10000,
+        "remaining_count": 2
+      }
+    ],
+    "crawl_date": "2025-08-24",
+    "date": "2025-08-22",
+    "rate": 100
+  },
+  {
+    "id": "speetto2000_3",
+    "title": "스피또 2000 59회",
+    "texts": [
+      {
+        "id": "speetto2000_3_1",
+        "rank": "1 등",
+        "rank_date": "2025-08-22",
+        "prize_money": 1000000000,
+        "remaining_count": 0
+      },
+      {
+        "id": "speetto2000_3_2",
+        "rank": "2 등",
+        "rank_date": "2025-08-22",
+        "prize_money": 100000000,
+        "remaining_count": 2
+      },
+      {
+        "id": "speetto2000_3_3",
+        "rank": "3 등",
+        "rank_date": "2025-08-22",
+        "prize_money": 10000,
+        "remaining_count": 23
+      }
+    ],
+    "crawl_date": "2025-08-24",
+    "date": "2025-08-22",
+    "rate": 91
+  },
+  {
+    "id": "speetto2000_4",
+    "title": "스피또 1000 98회",
+    "texts": [
+      {
+        "id": "speetto2000_4_1",
+        "rank": "1 등",
+        "rank_date": "2025-08-22",
+        "prize_money": 500000000,
+        "remaining_count": 9
+      },
+      {
+        "id": "speetto2000_4_2",
+        "rank": "2 등",
+        "rank_date": "2025-08-22",
+        "prize_money": 20000,
+        "remaining_count": 48
+      },
+      {
+        "id": "speetto2000_4_3",
+        "rank": "3 등",
+        "rank_date": "2025-08-22",
+        "prize_money": 1,
+        "remaining_count": 271098
+      }
+    ],
+    "crawl_date": "2025-08-24",
+    "date": "2025-08-22",
+    "rate": 31
+  },
+  {
+    "id": "speetto2000_5",
+    "title": "스피또 1000 97회",
+    "texts": [
+      {
+        "id": "speetto2000_5_1",
+        "rank": "1 등",
+        "rank_date": "2025-08-22",
+        "prize_money": 500000000,
+        "remaining_count": 2
+      },
+      {
+        "id": "speetto2000_5_2",
+        "rank": "2 등",
+        "rank_date": "2025-08-22",
+        "prize_money": 20000,
+        "remaining_count": 26
+      },
+      {
+        "id": "speetto2000_5_3",
+        "rank": "3 등",
+        "rank_date": "2025-08-22",
+        "prize_money": 1,
+        "remaining_count": 101684
+      }
+    ],
+    "crawl_date": "2025-08-24",
+    "date": "2025-08-22",
+    "rate": 99
+  },
+  {
+    "id": "speetto2000_6",
+    "title": "스피또 1000 96회",
+    "texts": [
+      {
+        "id": "speetto2000_6_1",
+        "rank": "1 등",
+        "rank_date": "2025-08-22",
+        "prize_money": 500000000,
+        "remaining_count": 1
+      },
+      {
+        "id": "speetto2000_6_2",
+        "rank": "2 등",
+        "rank_date": "2025-08-22",
+        "prize_money": 20000,
+        "remaining_count": 3
+      },
+      {
+        "id": "speetto2000_6_3",
+        "rank": "3 등",
+        "rank_date": "2025-08-22",
+        "prize_money": 1,
+        "remaining_count": 17609
+      }
+    ],
+    "crawl_date": "2025-08-24",
+    "date": "2025-08-22",
+    "rate": 100
+  },
+  {
+    "id": "speetto2000_7",
+    "title": "스피또 1000 95회",
+    "texts": [
+      {
+        "id": "speetto2000_7_1",
+        "rank": "1 등",
+        "rank_date": "2025-08-22",
+        "prize_money": 500000000,
+        "remaining_count": 0
+      },
+      {
+        "id": "speetto2000_7_2",
+        "rank": "2 등",
+        "rank_date": "2025-08-22",
+        "prize_money": 20000,
+        "remaining_count": 2
+      },
+      {
+        "id": "speetto2000_7_3",
+        "rank": "3 등",
+        "rank_date": "2025-08-22",
+        "prize_money": 1,
+        "remaining_count": 11593
+      }
+    ],
+    "crawl_date": "2025-08-24",
+    "date": "2025-08-22",
+    "rate": 100
+  },
+  {
+    "id": "speetto2000_8",
+    "title": "스피또 1000 94회",
+    "texts": [
+      {
+        "id": "speetto2000_8_1",
+        "rank": "1 등",
+        "rank_date": "2025-08-22",
+        "prize_money": 500000000,
+        "remaining_count": 0
+      },
+      {
+        "id": "speetto2000_8_2",
+        "rank": "2 등",
+        "rank_date": "2025-08-22",
+        "prize_money": 20000,
+        "remaining_count": 1
+      },
+      {
+        "id": "speetto2000_8_3",
+        "rank": "3 등",
+        "rank_date": "2025-08-22",
+        "prize_money": 1,
+        "remaining_count": 8398
+      }
+    ],
+    "crawl_date": "2025-08-24",
+    "date": "2025-08-22",
+    "rate": 100
+  },
+  {
+    "id": "speetto2000_9",
+    "title": "스피또 1000 93회",
+    "texts": [
+      {
+        "id": "speetto2000_9_1",
+        "rank": "1 등",
+        "rank_date": "2025-08-22",
+        "prize_money": 500000000,
+        "remaining_count": 0
+      },
+      {
+        "id": "speetto2000_9_2",
+        "rank": "2 등",
+        "rank_date": "2025-08-22",
+        "prize_money": 20000,
+        "remaining_count": 1
+      },
+      {
+        "id": "speetto2000_9_3",
+        "rank": "3 등",
+        "rank_date": "2025-08-22",
+        "prize_money": 1,
+        "remaining_count": 6567
+      }
+    ],
+    "crawl_date": "2025-08-24",
+    "date": "2025-08-22",
+    "rate": 100
+  },
+  {
+    "id": "speetto2000_10",
+    "title": "스피또 500 47회",
+    "texts": [
+      {
+        "id": "speetto2000_10_1",
+        "rank": "1 등",
+        "rank_date": "2025-08-22",
+        "prize_money": 200000000,
+        "remaining_count": 2
+      },
+      {
+        "id": "speetto2000_10_2",
+        "rank": "2 등",
+        "rank_date": "2025-08-22",
+        "prize_money": 1,
+        "remaining_count": 39
+      },
+      {
+        "id": "speetto2000_10_3",
+        "rank": "3 등",
+        "rank_date": "2025-08-22",
+        "prize_money": 50000,
+        "remaining_count": 111924
+      }
+    ],
+    "crawl_date": "2025-08-24",
+    "date": "2025-08-22",
+    "rate": 21
+  },
+  {
+    "id": "speetto2000_11",
+    "title": "스피또 500 46회",
+    "texts": [
+      {
+        "id": "speetto2000_11_1",
+        "rank": "1 등",
+        "rank_date": "2025-08-22",
+        "prize_money": 200000000,
+        "remaining_count": 0
+      },
+      {
+        "id": "speetto2000_11_2",
+        "rank": "2 등",
+        "rank_date": "2025-08-22",
+        "prize_money": 1,
+        "remaining_count": 15
+      },
+      {
+        "id": "speetto2000_11_3",
+        "rank": "3 등",
+        "rank_date": "2025-08-22",
+        "prize_money": 50000,
+        "remaining_count": 38137
+      }
+    ],
+    "crawl_date": "2025-08-24",
+    "date": "2025-08-22",
+    "rate": 79
+  }
+]
