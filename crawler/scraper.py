@@ -69,48 +69,10 @@ async def scrape_spitto2000():
         await browser.close()
 
         # JSON 저장
-        RAW_FILE_PATH = os.path.join(RAW_DIR, "speetto2000_raw.json")
+        today = datetime.date.today().strftime("%Y%m%d")
+        RAW_FILE_PATH = os.path.join(RAW_DIR, f"speetto2000_raw_{today}.json")
         with open(RAW_FILE_PATH, "w", encoding="utf-8") as f:
             json.dump(results, f, ensure_ascii=False, indent=2)
         print(f"크롤링 완료: {len(results)}개의 스피또 정보 수집")
-        return results
+        return results, RAW_FILE_PATH
 
-
-# def convert_spitto2000_clean(raw_file: str):
-#     """raw 데이터를 clean 데이터로 변환"""
-#     clean_file = raw_file.replace("/raw/", "/clean/")
-
-#     with open(raw_file, "r", encoding="utf-8") as f:
-#         raw_data = json.load(f)
-
-#     clean_data = []
-#     for item in raw_data:
-#         texts_clean = []
-#         for t in item["texts"]:
-#             spans = t["raw_texts"]
-#             if len(spans) == 4:
-#                 texts_clean.append({
-#                     "id": t["id"],
-#                     "rank": spans[0],
-#                     "rank_date": spans[1],
-#                     "prize_money": spans[2],
-#                     "remaining_count": spans[3],
-#                 })
-#         clean_data.append({
-#             "id": item["id"],
-#             "title": item["title"],
-#             "texts": texts_clean,
-#             "crawl_date": item["crawl_date"]
-#         })
-
-#     with open(clean_file, "w", encoding="utf-8") as f:
-#         json.dump(clean_data, f, ensure_ascii=False, indent=2)
-
-#     print(f"✅ Clean 저장 완료: {clean_file}")
-#     return clean_file
-
-
-if __name__ == "__main__":
-    raw_file = asyncio.run(scrape_spitto2000())
-    # clean_file = convert_spitto2000_clean(raw_file)
-    # print("완료:", clean_file)

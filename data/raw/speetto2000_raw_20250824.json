@@ -1,0 +1,362 @@
+[
+  {
+    "id": "speetto2000_0",
+    "title": "스피또 2000 62회",
+    "texts": [
+      {
+        "id": "speetto2000_0_1",
+        "rank": "1 등",
+        "rank_date": "(25-08-22 기준)",
+        "prize_money": "10억원",
+        "remaining_count": "4 매"
+      },
+      {
+        "id": "speetto2000_0_2",
+        "rank": "2 등",
+        "rank_date": "(25-08-22 기준)",
+        "prize_money": "1억원",
+        "remaining_count": "10 매"
+      },
+      {
+        "id": "speetto2000_0_3",
+        "rank": "3 등",
+        "rank_date": "(25-08-22 기준)",
+        "prize_money": "1천만원",
+        "remaining_count": "99 매"
+      }
+    ],
+    "crawl_date": "2025-08-24",
+    "date": "25-08-22 기준",
+    "rate": "74"
+  },
+  {
+    "id": "speetto2000_1",
+    "title": "스피또 2000 61회",
+    "texts": [
+      {
+        "id": "speetto2000_1_1",
+        "rank": "1 등",
+        "rank_date": "(25-08-22 기준)",
+        "prize_money": "10억원",
+        "remaining_count": "0 매"
+      },
+      {
+        "id": "speetto2000_1_2",
+        "rank": "2 등",
+        "rank_date": "(25-08-22 기준)",
+        "prize_money": "1억원",
+        "remaining_count": "2 매"
+      },
+      {
+        "id": "speetto2000_1_3",
+        "rank": "3 등",
+        "rank_date": "(25-08-22 기준)",
+        "prize_money": "1천만원",
+        "remaining_count": "7 매"
+      }
+    ],
+    "crawl_date": "2025-08-24",
+    "date": "25-08-22 기준",
+    "rate": "100"
+  },
+  {
+    "id": "speetto2000_2",
+    "title": "스피또 2000 60회",
+    "texts": [
+      {
+        "id": "speetto2000_2_1",
+        "rank": "1 등",
+        "rank_date": "(25-08-22 기준)",
+        "prize_money": "10억원",
+        "remaining_count": "0 매"
+      },
+      {
+        "id": "speetto2000_2_2",
+        "rank": "2 등",
+        "rank_date": "(25-08-22 기준)",
+        "prize_money": "1억원",
+        "remaining_count": "1 매"
+      },
+      {
+        "id": "speetto2000_2_3",
+        "rank": "3 등",
+        "rank_date": "(25-08-22 기준)",
+        "prize_money": "1천만원",
+        "remaining_count": "2 매"
+      }
+    ],
+    "crawl_date": "2025-08-24",
+    "date": "25-08-22 기준",
+    "rate": "100"
+  },
+  {
+    "id": "speetto2000_3",
+    "title": "스피또 2000 59회",
+    "texts": [
+      {
+        "id": "speetto2000_3_1",
+        "rank": "1 등",
+        "rank_date": "(25-08-22 기준)",
+        "prize_money": "10억원",
+        "remaining_count": "0 매"
+      },
+      {
+        "id": "speetto2000_3_2",
+        "rank": "2 등",
+        "rank_date": "(25-08-22 기준)",
+        "prize_money": "1억원",
+        "remaining_count": "2 매"
+      },
+      {
+        "id": "speetto2000_3_3",
+        "rank": "3 등",
+        "rank_date": "(25-08-22 기준)",
+        "prize_money": "1천만원",
+        "remaining_count": "23 매"
+      }
+    ],
+    "crawl_date": "2025-08-24",
+    "date": "25-08-22 기준",
+    "rate": "91"
+  },
+  {
+    "id": "speetto2000_4",
+    "title": "스피또 1000 98회",
+    "texts": [
+      {
+        "id": "speetto2000_4_1",
+        "rank": "1 등",
+        "rank_date": "(25-08-22 기준)",
+        "prize_money": "5억원",
+        "remaining_count": "9 매"
+      },
+      {
+        "id": "speetto2000_4_2",
+        "rank": "2 등",
+        "rank_date": "(25-08-22 기준)",
+        "prize_money": "2천만원",
+        "remaining_count": "48 매"
+      },
+      {
+        "id": "speetto2000_4_3",
+        "rank": "3 등",
+        "rank_date": "(25-08-22 기준)",
+        "prize_money": "1만원",
+        "remaining_count": "271,098 매"
+      }
+    ],
+    "crawl_date": "2025-08-24",
+    "date": "25-08-22 기준",
+    "rate": "31"
+  },
+  {
+    "id": "speetto2000_5",
+    "title": "스피또 1000 97회",
+    "texts": [
+      {
+        "id": "speetto2000_5_1",
+        "rank": "1 등",
+        "rank_date": "(25-08-22 기준)",
+        "prize_money": "5억원",
+        "remaining_count": "2 매"
+      },
+      {
+        "id": "speetto2000_5_2",
+        "rank": "2 등",
+        "rank_date": "(25-08-22 기준)",
+        "prize_money": "2천만원",
+        "remaining_count": "26 매"
+      },
+      {
+        "id": "speetto2000_5_3",
+        "rank": "3 등",
+        "rank_date": "(25-08-22 기준)",
+        "prize_money": "1만원",
+        "remaining_count": "101,684 매"
+      }
+    ],
+    "crawl_date": "2025-08-24",
+    "date": "25-08-22 기준",
+    "rate": "99"
+  },
+  {
+    "id": "speetto2000_6",
+    "title": "스피또 1000 96회",
+    "texts": [
+      {
+        "id": "speetto2000_6_1",
+        "rank": "1 등",
+        "rank_date": "(25-08-22 기준)",
+        "prize_money": "5억원",
+        "remaining_count": "1 매"
+      },
+      {
+        "id": "speetto2000_6_2",
+        "rank": "2 등",
+        "rank_date": "(25-08-22 기준)",
+        "prize_money": "2천만원",
+        "remaining_count": "3 매"
+      },
+      {
+        "id": "speetto2000_6_3",
+        "rank": "3 등",
+        "rank_date": "(25-08-22 기준)",
+        "prize_money": "1만원",
+        "remaining_count": "17,609 매"
+      }
+    ],
+    "crawl_date": "2025-08-24",
+    "date": "25-08-22 기준",
+    "rate": "100"
+  },
+  {
+    "id": "speetto2000_7",
+    "title": "스피또 1000 95회",
+    "texts": [
+      {
+        "id": "speetto2000_7_1",
+        "rank": "1 등",
+        "rank_date": "(25-08-22 기준)",
+        "prize_money": "5억원",
+        "remaining_count": "0 매"
+      },
+      {
+        "id": "speetto2000_7_2",
+        "rank": "2 등",
+        "rank_date": "(25-08-22 기준)",
+        "prize_money": "2천만원",
+        "remaining_count": "2 매"
+      },
+      {
+        "id": "speetto2000_7_3",
+        "rank": "3 등",
+        "rank_date": "(25-08-22 기준)",
+        "prize_money": "1만원",
+        "remaining_count": "11,593 매"
+      }
+    ],
+    "crawl_date": "2025-08-24",
+    "date": "25-08-22 기준",
+    "rate": "100"
+  },
+  {
+    "id": "speetto2000_8",
+    "title": "스피또 1000 94회",
+    "texts": [
+      {
+        "id": "speetto2000_8_1",
+        "rank": "1 등",
+        "rank_date": "(25-08-22 기준)",
+        "prize_money": "5억원",
+        "remaining_count": "0 매"
+      },
+      {
+        "id": "speetto2000_8_2",
+        "rank": "2 등",
+        "rank_date": "(25-08-22 기준)",
+        "prize_money": "2천만원",
+        "remaining_count": "1 매"
+      },
+      {
+        "id": "speetto2000_8_3",
+        "rank": "3 등",
+        "rank_date": "(25-08-22 기준)",
+        "prize_money": "1만원",
+        "remaining_count": "8,398 매"
+      }
+    ],
+    "crawl_date": "2025-08-24",
+    "date": "25-08-22 기준",
+    "rate": "100"
+  },
+  {
+    "id": "speetto2000_9",
+    "title": "스피또 1000 93회",
+    "texts": [
+      {
+        "id": "speetto2000_9_1",
+        "rank": "1 등",
+        "rank_date": "(25-08-22 기준)",
+        "prize_money": "5억원",
+        "remaining_count": "0 매"
+      },
+      {
+        "id": "speetto2000_9_2",
+        "rank": "2 등",
+        "rank_date": "(25-08-22 기준)",
+        "prize_money": "2천만원",
+        "remaining_count": "1 매"
+      },
+      {
+        "id": "speetto2000_9_3",
+        "rank": "3 등",
+        "rank_date": "(25-08-22 기준)",
+        "prize_money": "1만원",
+        "remaining_count": "6,567 매"
+      }
+    ],
+    "crawl_date": "2025-08-24",
+    "date": "25-08-22 기준",
+    "rate": "100"
+  },
+  {
+    "id": "speetto2000_10",
+    "title": "스피또 500 47회",
+    "texts": [
+      {
+        "id": "speetto2000_10_1",
+        "rank": "1 등",
+        "rank_date": "(25-08-22 기준)",
+        "prize_money": "2억원",
+        "remaining_count": "2 매"
+      },
+      {
+        "id": "speetto2000_10_2",
+        "rank": "2 등",
+        "rank_date": "(25-08-22 기준)",
+        "prize_money": "1백만원",
+        "remaining_count": "39 매"
+      },
+      {
+        "id": "speetto2000_10_3",
+        "rank": "3 등",
+        "rank_date": "(25-08-22 기준)",
+        "prize_money": "5천원",
+        "remaining_count": "111,924 매"
+      }
+    ],
+    "crawl_date": "2025-08-24",
+    "date": "25-08-22 기준",
+    "rate": "21"
+  },
+  {
+    "id": "speetto2000_11",
+    "title": "스피또 500 46회",
+    "texts": [
+      {
+        "id": "speetto2000_11_1",
+        "rank": "1 등",
+        "rank_date": "(25-08-22 기준)",
+        "prize_money": "2억원",
+        "remaining_count": "0 매"
+      },
+      {
+        "id": "speetto2000_11_2",
+        "rank": "2 등",
+        "rank_date": "(25-08-22 기준)",
+        "prize_money": "1백만원",
+        "remaining_count": "15 매"
+      },
+      {
+        "id": "speetto2000_11_3",
+        "rank": "3 등",
+        "rank_date": "(25-08-22 기준)",
+        "prize_money": "5천원",
+        "remaining_count": "38,137 매"
+      }
+    ],
+    "crawl_date": "2025-08-24",
+    "date": "25-08-22 기준",
+    "rate": "79"
+  }
+]
